@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+I'm just writing random words. Goulash, pencil, trolley, extravaganza, stuff...
